@@ -13,5 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="js/script.js" type="text/javascript"></script>
     </body>
 </html>
